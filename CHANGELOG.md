@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 All notable changes to this project are documented here.
 
@@ -41,3 +41,4 @@ When you make a change, add an entry under a new version heading using these cat
 FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
 [Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+
